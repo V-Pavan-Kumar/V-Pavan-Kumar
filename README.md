@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @V-Pavan-Kumar
+- 👋 Hi, I’m V Pavan Kumar
 - 🌱 I’m currently learning Full Stack Development
 - 👀 I’m interested in software development
 - 📫 How to reach me :-
